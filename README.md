@@ -11,7 +11,7 @@ A clean and simple To-Do List web app built with HTML, CSS, and JavaScript. Add 
 - Beginner-friendly codebase
 
 ## 🚀 Live Demo
-[View it on GitHub Pages](https://your-username.github.io/todo-list-app)
+[View it on GitHub Pages](https://AkshayaR-163.github.io/todo-list-app)
 
 ## 📁 Project Structure
 📦 todo-list-app
